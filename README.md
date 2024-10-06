@@ -1,5 +1,5 @@
 # QRifyX - QR Code Generator
-https://github.com/Rohit-TechLab/QRifyX/blob/main/QRifyX%20Logo.png
+![QRifyX Logo]((https://github.com/Rohit-TechLab/QRifyX/blob/main/QRifyX%20Logo.png)
 ## Overview
 
 QRifyX is a simple and user-friendly web application that allows users to generate QR codes from URLs or text. With a clean and responsive design, QRifyX makes it easy to create and download QR codes for various uses, such as sharing links, business information, or other textual content.
