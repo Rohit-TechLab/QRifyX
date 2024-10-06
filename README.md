@@ -17,3 +17,7 @@ QRifyX is a simple and user-friendly web application that allows users to genera
 - CSS
 - JavaScript
 - QRCode.js library
+
+## Issue
+
+In today's digital landscape, many websites offer QR code generation tools, but most of them are cluttered with advertisements. This can create a frustrating user experience and distract users from their primary task. QRifyX aims to provide a clean, ad-free environment for users to generate QR codes effortlessly, focusing on simplicity and ease of use.
