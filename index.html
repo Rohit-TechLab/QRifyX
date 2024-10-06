@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QRifyX - QR Code Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/qrcode.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>QRifyX</h1>
+            <a href="https://github.com/Rohit-TechLab" target="_blank" class="github-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo">
+            </a>
+        </header>
+        <main>
+            <div class="input-section">
+                <input type="text" id="urlInput" placeholder="Enter URL or text here...">
+                <button id="generateBtn">Generate QR Code</button>
+            </div>
+            <div id="qrcode"></div>
+            <button id="downloadBtn" style="display: none;">Download QR Code</button>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
