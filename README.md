@@ -1,6 +1,6 @@
 # QRifyX - QR Code Generator
 
-<img src="QRifyX.png" alt="QRifyX Logo" width="300" height="150">
+<img src="QRifyX.png" alt="QRifyX Logo" width="300" height="300">
 
 ## Overview
 
